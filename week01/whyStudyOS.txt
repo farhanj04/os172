@@ -1,1 +1,7 @@
 #farhanj04
+
+Kini, Server merupakan tulang punggung Komunitas Internet. Setiap instruksi diimplementasikan oleh Server yang dijalankan pada Sistem Operasi.
+
+Untuk membuat dunia ini lebih baik atau mempengaruhi dunia Internet, kita perlu tahu tentang Sistem Operasi. Ini adalah dasar dari segalanya. Pada dasarnya ada 2 jenis sistem operasi yang terutama digunakan pada Server, OS Linux dan Windows.
+
+Jadi belajar tentang OS pasti akan membantu Anda dalam beberapa hal untuk berkontribusi ke dunia ini.
