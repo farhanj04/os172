@@ -1,0 +1,3 @@
+Dari task 0 membuat folder git os172 dan memasukannya ke git masing-masing,
+setelah itu lapor apabila sudah sesuai dengan form yang disediakan dan tunggu
+max 24 jam 
