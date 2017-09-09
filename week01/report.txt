@@ -1,0 +1,3 @@
+Task pada lab01 sejauh ini melakukan Clone GIT Repository, yaitu nge clone
+apa yang ada di git ke server badak. Intro to git mengajarkan segala command
+untuk push/pull git. Kemudian Intro to CLI juga mengajarkan operator ">>" dan PWD, dan Intro to Scripting.
