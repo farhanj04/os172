@@ -1,5 +1,4 @@
 #Week00
-
 w00-170902-19-LR-About: Introduction to Operating System, From: Scele
 w00-170903-19-PS-Week00 task
 
