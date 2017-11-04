@@ -1,0 +1,9 @@
+#week05
+
+w05-171003-16-LR-About: Addressing, From: Dosen
+w05-171005-16-LR-About: Addressing, From: Dosen
+w05-171010-16-LR-About: Virtual Memory, From: Dosen
+w05-171011-20-LR-About: Persiapan Kuis, From: Scele, Internet
+w05-171012-14-DS-Diskusi dengan teman mengenai kuis
+w05-171012-21-PS-Mengerjakan tugas lab week05
+w05-171014-15-PS-Menyelesaikan tugas lab week05
