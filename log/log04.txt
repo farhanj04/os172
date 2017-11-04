@@ -1,0 +1,7 @@
+#week04
+
+w04-170926-16-LR-About: I/O, From: Dosen
+w04-170928-12-PS-Mengerjakan tugas lab week04
+w04-170928-16-LR-About: I/O, From: Dosen
+w04-170929-08-LR-About: I/O, from: Scele
+w04-170930-10-PS-Menyelesaikan tugas lab week04
