@@ -1,0 +1,7 @@
+#week06
+
+w06-171031-16-LR-About: Fork, From:Dosen
+w06-171031-17-LR-About: Mengerjakan soal Fork, From:Dosen
+w06-171031-17-DS-Diskusi dengan teman mengenai soal
+w05-171104-09-PS-Mengerjakan tugas lab week06
+w05-171104-13-PS-Menyelesaikan tugas lab week06
